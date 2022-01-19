@@ -9,6 +9,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 import seaborn as sns
 
 from KNN  import  KNN
+from Standardization import Standardization
 
 columns = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'Class']
 Iris_Data = pd.read_csv("iris.data", names = columns)

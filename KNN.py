@@ -11,7 +11,6 @@ from sklearn.preprocessing import LabelEncoder
 class KNN:
 	def __init__(self, Data):
 		self.Data = Data 
-		#self.ACC = self.Accurate
 		print(self.Data.head())
 
 
