@@ -1,0 +1,8 @@
+"How to Normalize or Standardize a Dataset in Python?"
+Link: https://www.machinecurve.com/index.php/2020/11/19/how-to-normalize-or-standardize-a-dataset-in-python/
+
+"Xử lý dữ liệu với Pandas trong Python"
+Link: https://codelearn.io/sharing/xu-ly-du-lieu-voi-pandas-trong-python
+
+"Convert pandas dataframe to numpy array"
+Link: https://qastack.vn/programming/13187778/convert-pandas-dataframe-to-numpy-array
